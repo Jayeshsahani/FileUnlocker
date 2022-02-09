@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileUnlocker.Tool", "FileUnlocker.Tool\FileUnlocker.Tool.csproj", "{1C34ED40-1B6D-4A50-8A94-869771851F5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C34ED40-1B6D-4A50-8A94-869771851F5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C34ED40-1B6D-4A50-8A94-869771851F5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C34ED40-1B6D-4A50-8A94-869771851F5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C34ED40-1B6D-4A50-8A94-869771851F5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D779959-73AE-4CD3-8762-3833635E2CAD}
+	EndGlobalSection
+EndGlobal
